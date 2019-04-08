@@ -4,3 +4,5 @@ apply from: "${GRADLES.baseConfig}"
 dependencies {
     api fileTree(dir: 'libs', include: ['*.jar'])
 }
+
+android { sourceSets { main { assets.srcDirs = ['src/main/assets', 'src/main/assets/'] } } }

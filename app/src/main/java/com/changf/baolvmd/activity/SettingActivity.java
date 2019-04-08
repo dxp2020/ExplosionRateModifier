@@ -4,7 +4,7 @@ import android.view.View;
 import android.widget.ListView;
 
 import com.changf.baolvmd.R;
-import com.changf.baolvmd.activity.util.FileUtil;
+import com.changf.baolvmd.util.FileUtil;
 import com.mula.base.activity.BaseActivity;
 import com.mula.base.tools.display.ToastUtil;
 
