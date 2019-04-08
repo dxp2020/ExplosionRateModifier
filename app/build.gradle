@@ -1,0 +1,6 @@
+apply plugin: 'com.android.application'
+apply from: "${GRADLES.baseConfig}"
+
+dependencies {
+    api fileTree(dir: 'libs', include: ['*.jar'])
+}

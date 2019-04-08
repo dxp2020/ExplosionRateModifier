@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ListView
+        android:id="@+id/lv_list"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        >
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:text="导入"
+            android:textColor="@color/color_333333"
+            android:gravity="center"
+            android:onClick="onImportFile"
+            android:layout_weight="1"
+            />
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:text="添加怪物"
+            android:textColor="@color/color_333333"
+            android:gravity="center"
+            android:onClick="addMonster"
+            android:layout_weight="1"
+            />
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:text="添加装备"
+            android:textColor="@color/color_333333"
+            android:gravity="center"
+            android:onClick="addEquipment"
+            android:layout_weight="1"
+            />
+    </LinearLayout>
+
+</LinearLayout>
