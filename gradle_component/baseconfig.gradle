@@ -103,4 +103,6 @@ dependencies {
     api rootProject.ext.OTHERDEPS.flexlayout
 
     api rootProject.ext.MULALIBS.mula_base
+    annotationProcessor rootProject.ext.DEVDEPS.butterknifeAnnotationProcessor
+    api rootProject.ext.DEVDEPS.butterknifeCompile
 }

@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/[Boss]至尊天魔(1).txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/[Boss]至尊天魔(2).txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/尸王.txt" charset="GBK" />
     <file url="file://$PROJECT_DIR$/app/src/main/assets/goods.txt" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/src/main/goods.txt" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/app/src/main/res/assets/goods.txt" charset="GBK" />
   </component>
 </project>

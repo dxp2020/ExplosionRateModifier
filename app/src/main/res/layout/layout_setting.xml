@@ -4,6 +4,11 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
+    <com.mula.base.view.MulaTitleBar
+        android:id="@+id/mtb_title_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
     <ListView
         android:id="@+id/lv_list"
         android:layout_width="match_parent"
@@ -12,37 +17,72 @@
         />
 
     <LinearLayout
+        android:id="@+id/ll_content"
         android:layout_width="match_parent"
-        android:layout_height="50dp"
-        android:orientation="horizontal"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
         >
+
         <Button
-            android:layout_width="0dp"
-            android:layout_height="match_parent"
-            android:text="导入"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="导入物品和怪物"
             android:textColor="@color/color_333333"
             android:gravity="center"
             android:onClick="onImportFile"
-            android:layout_weight="1"
             />
-        <Button
-            android:layout_width="0dp"
-            android:layout_height="match_parent"
-            android:text="添加怪物"
-            android:textColor="@color/color_333333"
-            android:gravity="center"
-            android:onClick="addMonster"
-            android:layout_weight="1"
-            />
-        <Button
-            android:layout_width="0dp"
-            android:layout_height="match_parent"
-            android:text="添加装备"
-            android:textColor="@color/color_333333"
-            android:gravity="center"
-            android:onClick="addEquipment"
-            android:layout_weight="1"
-            />
+
+        <LinearLayout
+            android:id="@+id/ll_goods"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:visibility="gone"
+            >
+            <TextView
+                android:id="@+id/tv_goods_content"
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:textColor="@color/color_333333"
+                android:gravity="left|center_vertical"
+                android:layout_weight="1"
+                android:layout_marginLeft="20dp"
+                />
+            <Button
+                android:id="@+id/btn_check_goods"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="查看物品"
+                android:gravity="center"
+                />
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/ll_monster"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:visibility="gone"
+            >
+            <TextView
+                android:id="@+id/tv_monster_content"
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:textColor="@color/color_333333"
+                android:gravity="left|center_vertical"
+                android:layout_weight="1"
+                android:layout_marginLeft="20dp"
+                />
+            <Button
+                android:id="@+id/btn_check_monster"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="爆物修改"
+                android:gravity="center"
+                />
+        </LinearLayout>
     </LinearLayout>
+
 
 </LinearLayout>
