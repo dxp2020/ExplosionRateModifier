@@ -1,6 +1,5 @@
 package com.changf.baolvmd.activity;
 
-import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.LinearLayout;
@@ -8,15 +7,20 @@ import android.widget.ListView;
 import android.widget.TextView;
 
 import com.changf.baolvmd.R;
+import com.changf.baolvmd.bean.GoodsBean;
+import com.changf.baolvmd.bean.GoodsType;
+import com.changf.baolvmd.fragment.GoodsMonsterListFragment;
 import com.changf.baolvmd.util.FileUtil;
 import com.mula.base.activity.BaseActivity;
 import com.mula.base.tools.display.ToastUtil;
+import com.mula.base.tools.jump.IFragmentParams;
+import com.mula.base.tools.jump.Static;
 import com.mula.base.view.MulaTitleBar;
 
 import java.util.List;
 
 import butterknife.BindView;
-import butterknife.ButterKnife;
+import butterknife.OnClick;
 
 public class SettingActivity extends BaseActivity {
     @BindView(R.id.tv_goods_content)
@@ -70,4 +74,19 @@ public class SettingActivity extends BaseActivity {
         return R.layout.layout_setting;
     }
 
+    @OnClick({R.id.btn_check_goods, R.id.btn_check_monster})
+    public void onClick(View view) {
+        switch (view.getId()) {
+            case R.id.btn_check_goods:
+                {
+                    Static.jumpToFragment(mActivity, GoodsMonsterListFragment.class,new IFragmentParams(new GoodsBean(GoodsType.GOODS,goods)));
+                }
+                break;
+            case R.id.btn_check_monster:
+                {
+                    Static.jumpToFragment(mActivity, GoodsMonsterListFragment.class,new IFragmentParams(new GoodsBean(GoodsType.MONSTER,goods,monster)));
+                }
+                break;
+        }
+    }
 }

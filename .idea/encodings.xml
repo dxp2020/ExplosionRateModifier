@@ -1,10 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/BOSS·转生LV①.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/BOSS·转生LV②.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/BOSS·转生LV③.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/BOSS·转生LV④.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/BOSS·转生LV⑤.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/BOSS·转生LV⑥.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/BOSS·转生LV⑦.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/BOSS·转生LV⑧.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/BOSS·转生LV⑨.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/BOSS·转生LV⑩.txt" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/[Boss]至尊天魔(1).txt" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/[Boss]至尊天魔(2).txt" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/尸王.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/[Boss]至尊天魔(2).txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/[Boss]至尊天魔(3).txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/[Boss]至尊天魔(4).txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/[Boss]至尊天魔.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/※北戰合击※.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/※北戰合击※1.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/★别打我★.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/★北戰天珠★.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/★北戰教主★.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/★等级使者★.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/★雄狮霸主★.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/万兽妖王[BOSS](1).txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/万兽妖王[BOSS](2).txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/万兽妖王[BOSS](3).txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/万兽妖王[BOSS](4).txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/万兽妖王[BOSS].txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/万劫恶魔(1).txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/万劫恶魔(2).txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/万劫恶魔(3).txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/伏地魔[BOSS](3).txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/伏地魔[BOSS](4).txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/伏地魔[BOSS].txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/副本BOSS10(1).txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/副本BOSS10(2).txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/副本BOSS10(3).txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/副本BOSS10(4).txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/副本BOSS10.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/副本BOSS2(1).txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/副本BOSS2(2).txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/副本BOSS2(3).txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/副本BOSS2(4).txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/副本BOSS2.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/副本BOSS3(1).txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/副本BOSS3(2).txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/副本BOSS3(3).txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/副本BOSS3(4).txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/副本BOSS3.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/副本BOSS4(1).txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/副本BOSS4(2).txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/副本BOSS4(3).txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/副本BOSS4(4).txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/副本BOSS4.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/副本BOSS5(1).txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/副本BOSS5(2).txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/副本BOSS5(3).txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/副本BOSS5(4).txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/副本BOSS5.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/副本BOSS6(1).txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/副本BOSS6(2).txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/副本BOSS6(3).txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/副本BOSS6(4).txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/副本BOSS6.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/副本BOSS7(1).txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/副本BOSS7(2).txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/副本BOSS7(3).txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/副本BOSS7(4).txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/副本BOSS7.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/副本BOSS8(1).txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/副本BOSS8(2).txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/副本BOSS8(3).txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/副本BOSS8(4).txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/副本BOSS8.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/副本BOSS9(1).txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/副本BOSS9(2).txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/副本BOSS9(3).txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/副本BOSS9(4).txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/副本BOSS9.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/尸王.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/龙鸣狂啸[终极].txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/MonItems/龙鸣狮吼[神级].txt" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/src/main/assets/goods.txt" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/app/src/main/goods.txt" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
   </component>
 </project>
